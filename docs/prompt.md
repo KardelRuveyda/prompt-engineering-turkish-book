@@ -1,4 +1,6 @@
-# Prompt Nedir?
+# Prompt
+
+## Prompt Nedir?
 
 ## Prompt Öğeleri
 
