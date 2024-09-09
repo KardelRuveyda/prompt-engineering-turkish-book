@@ -15,8 +15,6 @@ https://kardelruveyda.github.io/prompt-engineering-turkish-book
     - [Prompt Engineering'in Önemi](docs/giris.md#prompt-engineeringin-onemi)
     - [Kitabın İçeriği ve Yapısı](docs/giris.md#kitabin-icerigi-ve-yapisi)
     - [Hedef Kitle](docs/giris.md#hedef-kitle)
-    - [Prompt Engineering ile Yapay Zeka Kullanımı](docs/giris.md#prompt-engineering-ile-yapay-zeka-kullanimi)
-    - [Kitapta Kullanılan Yaklaşımlar ve Yöntemler](docs/giris.md#kitapta-kullanilan-yaklasimlar-ve-yontemler)
     - [Okuma Rehberi ve Öneriler](docs/giris.md#okuma-rehberi-ve-oneriler)
 2. [Prompt Nedir?](./docs/prompt.md)
    - [Prompt Öğeleri](./docs/prompt.md#prompt-ogeleri)
