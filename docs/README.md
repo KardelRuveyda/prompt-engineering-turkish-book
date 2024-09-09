@@ -30,4 +30,6 @@ https://kardelruveyda.github.io/prompt-engineering-turkish-book
   - [Meta Prompting](./docs/teknikler.md#meta-prompting)
   - [Self Consistency](./docs/teknikler.md#self-consistency)
 
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/0366a017-6381-47d7-b353-9e84c2045111">
+
 
