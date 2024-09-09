@@ -1,4 +1,4 @@
-* Başlarken
+* Giriş
     * [Prompt Engineering Nedir?](giris.md#prompt-engineering-nedir)
     * [Kitabın Amacı](giris.md#kitabin-amaci)
     * [Erdoğan Eker ile İşbirliği](giris.md#erdogan-eker-ile-isbirligi)
@@ -7,9 +7,10 @@
     * [Hedef Kitle](giris.md#hedef-kitle)
     * [Prompt Engineering ile Yapay Zeka Kullanımı](giris.md#prompt-engineering-ile-yapay-zeka-kullanimi)
     * [Kitapta Kullanılan Yaklaşımlar ve Yöntemler](giris.md#kitapta-kullanilan-yaklasimlar-ve-yontemler)
-    * [Okuma Rehberi ve Öneriler](giris.md#okuma-rehberi-ve-oneriler)  
-* Prompt Nedir?
-    * [Prompt Nedir?](prompt.md)
+    * [Okuma Rehberi ve Öneriler](giris.md#okuma-rehberi-ve-oneriler)
+
+* Prompt
+    * [Prompt Nedir?](prompt.md#prompt-nedir)
     * [Prompt Öğeleri](prompt.md#prompt-ogeleri)
     * [Prompt Tasarımı](prompt.md#prompt-tasarimi)
     * [Prompt Örnekleri](prompt.md#prompt-ornekleri)
@@ -20,3 +21,4 @@
     * [Chain of Thought Prompting](teknikler.md#chain-of-thought-prompting)
     * [Meta Prompting](teknikler.md#meta-prompting)
     * [Self Consistency](teknikler.md#self-consistency)
+
