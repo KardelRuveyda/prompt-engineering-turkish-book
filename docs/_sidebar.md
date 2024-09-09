@@ -5,8 +5,6 @@
     * [Prompt Engineering'in Önemi](giris.md#prompt-engineeringin-onemi)
     * [Kitabın İçeriği ve Yapısı](giris.md#kitabin-icerigi-ve-yapisi)
     * [Hedef Kitle](giris.md#hedef-kitle)
-    * [Prompt Engineering ile Yapay Zeka Kullanımı](giris.md#prompt-engineering-ile-yapay-zeka-kullanimi)
-    * [Kitapta Kullanılan Yaklaşımlar ve Yöntemler](giris.md#kitapta-kullanilan-yaklasimlar-ve-yontemler)
     * [Okuma Rehberi ve Öneriler](giris.md#okuma-rehberi-ve-oneriler)
 
 * Prompt
