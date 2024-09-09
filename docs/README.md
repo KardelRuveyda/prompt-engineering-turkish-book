@@ -22,10 +22,12 @@ https://kardelruveyda.github.io/prompt-engineering-turkish-book
    - [Prompt Öğeleri](prompt.md#prompt-ogeleri)
    - [Prompt Tasarımı](prompt.md#prompt-tasarimi)
    - [Prompt Örnekleri](prompt.md#prompt-ornekleri)
-
+  
 3. [Teknikler](teknikler.md)
-  - [Zero-shot Prompting](teknikler.md#zero-shot-prompting)
-  - [Few-shot Prompting](teknikler.md#few-shot-prompting)
-  - [Chain of Thought Prompting](teknikler.md#chain-of-thought-prompting)
-  - [Meta Prompting](teknikler.md#meta-prompting)
-  - [Self Consistency](teknikler.md#self-consistency)
+   - [Zero-shot Prompting](teknikler.md#zero-shot-prompting)
+   - [Few-shot Prompting](teknikler.md#few-shot-prompting)
+   - [Chain of Thought Prompting](teknikler.md#chain-of-thought-prompting)
+   - [Meta Prompting](teknikler.md#meta-prompting)
+   - [Self Consistency](teknikler.md#self-consistency)
+  
+
